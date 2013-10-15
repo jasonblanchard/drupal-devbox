@@ -5,9 +5,9 @@ if node["sites"]
 
     htdocs = "/var/www/#{index}"
     directory htdocs do
-      owner "vagrant"
-      group "vagrant"
-      mode "0755"
+      #owner "vagrant"
+      #group "vagrant"
+      #mode "0755"
       action :create
     end
 
