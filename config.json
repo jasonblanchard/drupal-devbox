@@ -32,6 +32,11 @@
       "site_mail": "box@example.com"
     }
   },
+  "production_sites": {
+    "nicoleandjason": {
+      "remote_host": "about.blanktech.net"
+    }
+  },
   "xdebug": {
     "remote_host": "192.168.1.2"
   },
