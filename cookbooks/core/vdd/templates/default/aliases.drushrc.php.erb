@@ -28,11 +28,3 @@ $aliases['<%= index %>'] = array(
 );
 
 <% end %>
-
-<% @node["production_sites"].each do |index, site| %>
-  $aliases['<%= index %>'] = array(
-    'remote-host' = 'test',
-  );
-<% end %>
-
-
