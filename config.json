@@ -30,6 +30,13 @@
       "account_mail": "box@example.com",
       "site_name": "Drupal 7 Test Site",
       "site_mail": "box@example.com"
+    },
+    "aboutblankdev": {
+      "account_name": "root",
+      "account_pass": "root",
+      "account_mail": "box@example.com",
+      "site_name": "AboutBlank Dev",
+      "site_mail": "box@example.com"
     }
   },
   "xdebug": {
